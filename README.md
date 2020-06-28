@@ -2,6 +2,10 @@
 
 ## HX711 ADC library to use with loadcell-bedprobe code
 
+### Installation
+1. Copy all files to Doccuments>Arduino>libraries
+2. #include HX711_ADC.h in code to use
+
 
 Latest release and change log here: https://github.com/olkal/HX711_ADC/releases
 
