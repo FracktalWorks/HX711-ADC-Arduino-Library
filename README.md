@@ -1,4 +1,4 @@
-# HX711-ADC-Arduino-Library
+# HX711 ADC Arduino Library
 
 ## HX711 ADC library to use with loadcell-bedprobe code
 
